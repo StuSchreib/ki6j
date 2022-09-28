@@ -1,0 +1,7 @@
+<header>
+{{ if eq .Title "Home"}}
+<h1>{{ .Site.Title }}: {{ .Title }}</h1>
+{{else}}
+<h1>{{ .Site.Title }}: {{ .Section }}</h1>
+{{end}}  
+</header>

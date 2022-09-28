@@ -1,0 +1,11 @@
+<div id="subnav">
+<ul>
+  {{ range .RegularPages }}
+  <li>
+    <a href="{{ .Permalink }}">
+    {{ .Title}} - {{ .Slug }}
+      </a>
+  </li>
+  {{ end }}
+</ul>
+</div>
