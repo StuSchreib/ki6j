@@ -3,8 +3,8 @@
   {{ range .RegularPages }}
   <li>
     <a href="https://{{ .Permalink }}">
-    {{ .Title}} - {{ .Slug }}
-      </a>
+    {{ .Title}} - {{ .Params.description }}
+    </a>
   </li>
   {{ end }}
 </ul>

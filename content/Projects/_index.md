@@ -1,10 +1,5 @@
 ---
 title: "Projects"
 draft: false
-description: "My Works"
-tags: []
-keyword: []
-slug:
-summary:
 ---
-Here's a list of the projects I've published.
+I'm in the process of turning years of lab notebooks into blog posts. I hope to get good at it. I also hope you find something that inspires you to build.

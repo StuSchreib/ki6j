@@ -9,15 +9,15 @@ title = 'KI6J'
   weight = 1
 [[menu.main]]
   name = 'Projects'
-  url = '/Projects'
+  url = '/project'
   weight = 2
 [[menu.main]]
   name = 'Library'
-  url = '/Library'
+  url = '/library'
   weight = 3  
 [[menu.main]]
   name = 'Contact'
-  url = '/Contact'
+  url = '/contact'
   weight = 4
 
 relativeURLs = false
