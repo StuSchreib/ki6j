@@ -1,7 +1,7 @@
 ---
 title: "Library"
 draft: false
-description: "Collection of links"
+description: "Amateur radio electronics, ham antenna, and RF design library"
 tags: []
 keyword: []
 slug:

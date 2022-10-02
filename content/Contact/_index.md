@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 draft: false
-description: 
+description: "Contact KI6J" 
 tags: []
 keywords: []
 slug:
