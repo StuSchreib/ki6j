@@ -8,7 +8,6 @@ type:
 tags: []
 keywords: []
 description:
-link:
+link: "The library is under construction. Links to documents coming soon."
 ---
 {{ .Params.link . }}
-Link will open a PDF stored on Google Drive in a new browser tab.
